@@ -13,9 +13,7 @@
 </div>
  
 <br>
- 
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
+
 <div> 
   <a href="https://img.shields.io/badge/https%3A%2F%2Fwww.instagram.com%2Firafaelsantana%3Figsh%3DYm5jeTF3enlpaW5o%26utm_source%3Dqr" target="_blank"></a>
   <a href="https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafael-apolin%25C3%25A1rio-9802b2265%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dios_app
